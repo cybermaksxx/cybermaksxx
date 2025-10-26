@@ -5,10 +5,10 @@ Cybersecurity Enthusiast | Ethical Hacking | CTF Player
 Hey there — I'm CyberMaks, a cybersecurity enthusiast passionate about ethical hacking, digital defense, and exploring system vulnerabilities.  
 Currently learning, experimenting, and documenting my journey in infosec.
 
-💻 What’s next?
-- Write and publish CTF write-ups  
-- Build my own personal website for tutorials and projects  
-- Contribute to open-source security tools
+💻 Upcoming projects
+- CTF write-ups with a deep explanation 
+- Python tools build for cybersecurity
+- Website with Write-ups ,explanation of cybersecurity tools usage ,and deep dive into web Vulnerabilities
 
 📫 Connect with me
 - GitHub: [@cybermaksxx](https://github.com/cybermaksxx)
