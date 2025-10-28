@@ -1,6 +1,6 @@
 # 👾 CyberMaks
 
-Cybersecurity Enthusiast | Ethical Hacking | CTF Player
+Cybersecurity Enthusiast | Ethical Hacker | CTF Player
 
 Hey there — I'm CyberMaks, a cybersecurity enthusiast passionate about ethical hacking, digital defense, and exploring system vulnerabilities.  
 Currently learning, experimenting, and documenting my journey in infosec.
