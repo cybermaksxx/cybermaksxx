@@ -12,7 +12,7 @@ Currently learning, experimenting, and documenting my journey in infosec.
 
 📫 Connect with me
 - GitHub: [@cybermaksxx](https://github.com/cybermaksxx)
-- cybermaksx@proton.me
+
 ---
 
 > “Hack the system — but understand it first.”
