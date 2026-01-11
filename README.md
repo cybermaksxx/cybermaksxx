@@ -1,14 +1,11 @@
-# 👾 CyberMaks
+#  CyberMaks
 
 Cybersecurity Enthusiast | Ethical Hacker | CTF Player
 
 Hey there — I'm CyberMaks, a cybersecurity enthusiast passionate about ethical hacking, digital defense, and exploring system vulnerabilities.  
 Currently learning, experimenting, and documenting my journey in infosec.
 
-💻 Upcoming projects
-- CTF write-ups with a deep explanation 
-- Python tools build for cybersecurity
-- Website with Write-ups ,explanation of cybersecurity tools usage ,and deep dive into web Vulnerabilities
+
 
 📫 Connect with me
 - GitHub: [@cybermaksxx](https://github.com/cybermaksxx)
